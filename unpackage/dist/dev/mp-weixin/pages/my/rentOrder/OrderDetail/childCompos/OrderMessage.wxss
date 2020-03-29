@@ -1,0 +1,13 @@
+
+.message.data-v-fb2a9ee4{
+	width: 100%;
+	background-color: #FFFFFF;
+	padding: 28rpx 0;
+	margin: 10rpx 0 20rpx 0;
+}
+.message-in.data-v-fb2a9ee4{
+	width: 92%;
+	margin: 0 auto;
+	font-size: 28rpx;
+}
+

@@ -1,0 +1,28 @@
+
+.price-button{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+	-webkit-flex-wrap: wrap;
+	        flex-wrap: wrap;
+}
+.price-button-item{
+	width: 208rpx;
+	height: 134rpx;
+	border-radius: 10rpx;
+	text-align: center;
+	line-height: 134rpx;
+	color: #333333;
+	/* border: 1px solid #0DAAFB; */
+	border: 1px solid #DCDCDC;
+	margin-top: 30rpx;
+	font-size: 36rpx;
+}
+.active{
+	color: #0DAAFB;
+	border: 1px solid #0DAAFB;
+}
+

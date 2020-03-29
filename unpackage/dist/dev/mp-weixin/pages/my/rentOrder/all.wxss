@@ -1,0 +1,17 @@
+
+page.data-v-f9afd7a8,page.data-v-f9afd7a8{
+	overflow-y: hidden;
+}
+page.data-v-f9afd7a8::-webkit-scrollbar { width: 0 !important
+}
+.fixedHead.data-v-f9afd7a8{
+	width: 100%;
+	position: fixed;
+	/* top: 44px; */
+	z-index: 100;
+}
+.scroll-Y.data-v-f9afd7a8{
+	padding-top: 200rpx;
+	height: 100%;
+}
+

@@ -1,0 +1,37 @@
+
+.row{
+	width: 100%;
+	background-color: #fff;
+}
+.row-in{
+	width: 92%;
+	height: 110rpx;
+	line-height: 110rpx;
+	margin: 0 auto;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+	border-bottom: 1rpx solid #eee;
+}
+.row-in-left{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	font-size: 30rpx;
+}
+.left-img{
+	width: 32rpx;
+	height: 31rpx;
+}
+.left-content{
+	font-size: 30rpx;
+	margin-left: 20rpx;
+}
+.row-in-right{
+	width: 14rpx;
+	height: 26rpx;
+}
+

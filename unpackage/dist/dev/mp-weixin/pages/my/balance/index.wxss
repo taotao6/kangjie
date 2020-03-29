@@ -1,0 +1,28 @@
+
+.balance {
+	width: 100%;
+	height: 322rpx;
+	background: url(http://taotao111.test.upcdn.net/me_fx_bg.png);
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	        justify-content: center;
+}
+.balance-title {
+	text-align: center;
+}
+.balance-title-top {
+	font-size: 80rpx;
+	color: #fff;
+}
+.balance-title-body {
+	font-size: 30rpx;
+	color: #fff;
+	margin-top: 20rpx;
+}
+

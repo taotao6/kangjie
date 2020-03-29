@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "s-popup": "/components/s-popup/index",
+    "cancel-box": "/components/conmon/cancelBox"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "商品详情",
+  "navigationBarBackgroundColor": "#0daafb",
+  "navigationBarTextStyle": "white",
+  "usingComponents": {
+    "uni-swiper-dot": "/components/uni-swiper-dot/uni-swiper-dot",
+    "open-alert": "/components/open-alert/open-alert",
+    "s-popup": "/components/s-popup/index"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "康捷校园",
+  "navigationBarBackgroundColor": "#0daafb",
+  "navigationBarTextStyle": "white",
+  "usingComponents": {
+    "dragball": "/components/drag-ball/drag-ball"
+  }
+}

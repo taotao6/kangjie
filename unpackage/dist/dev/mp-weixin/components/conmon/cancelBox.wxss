@@ -1,0 +1,45 @@
+
+.cancelBox.data-v-7b93d950{
+	width: 610rpx;
+	height: 280rpx;
+	background-color: white;
+	border-radius:20rpx;
+	overflow: hidden;
+}
+.cancelBox-title.data-v-7b93d950{
+	width: 100%;
+	height: 178rpx;
+	line-height: 178rpx;
+	text-align: center;
+	color: #333;
+	font-size: 36rpx;
+	border-bottom: 1rpx solid #DEDEDE;
+}
+.cancelBox-body.data-v-7b93d950{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+}
+.cancelBox-body-left.data-v-7b93d950,.cancelBox-body-right.data-v-7b93d950{
+	-webkit-box-flex: 1;
+	-webkit-flex: 1;
+	        flex: 1;
+	height: 102rpx;
+	line-height: 102rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	        justify-content: center;
+	font-size: 30rpx;
+}
+.cancelBox-body-right.data-v-7b93d950{
+	color: #0DAAFB;
+	border-left: 1rpx solid #DEDEDE;
+}
+
+

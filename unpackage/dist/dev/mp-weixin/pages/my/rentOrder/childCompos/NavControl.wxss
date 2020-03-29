@@ -1,0 +1,25 @@
+
+.mian{
+	width: 100%;
+	background-color: white;
+}
+.nav-control{
+	width: 92%;
+	margin: 0 auto;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	font-size: 28rpx;
+	-webkit-box-pack:justify;
+	-webkit-justify-content:space-between;
+	        justify-content:space-between;
+}
+.nav-control-item{
+	padding-bottom: 32rpx;
+	padding-top: 34rpx;
+}
+.nav-control-item.active{
+	color: #0DAAFB;
+	border-bottom: 3rpx solid #0DAAFB;
+}
+

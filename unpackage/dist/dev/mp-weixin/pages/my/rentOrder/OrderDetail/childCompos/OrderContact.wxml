@@ -1,0 +1,1 @@
+<view class="order-contact data-v-8e35bfb2"><view class="contact-center data-v-8e35bfb2"><slot name="center-img"></slot><slot name="center-title"></slot></view></view>

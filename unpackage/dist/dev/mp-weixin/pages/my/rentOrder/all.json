@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "租贷订单",
+  "navigationBarBackgroundColor": "#0daafb",
+  "navigationBarTextStyle": "white",
+  "usingComponents": {
+    "tab-control": "/pages/my/rentOrder/childCompos/TabControl",
+    "nav-control": "/pages/my/rentOrder/childCompos/NavControl",
+    "good-list": "/pages/my/rentOrder/childCompos/GoodList"
+  }
+}

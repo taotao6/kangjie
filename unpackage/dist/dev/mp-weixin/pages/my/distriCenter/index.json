@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "分销中心",
+  "navigationBarBackgroundColor": "#0daafb",
+  "navigationBarTextStyle": "white",
+  "usingComponents": {
+    "districen-title": "/pages/my/distriCenter/districenComps/districenTitle",
+    "districen-middle": "/pages/my/distriCenter/districenComps/districenMiddle",
+    "districen-footer": "/pages/my/distriCenter/districenComps/districenFooter"
+  }
+}

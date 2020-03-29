@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "确认订单",
+  "enablePullDownRefresh": true,
+  "navigationBarBackgroundColor": "#0daafb",
+  "navigationBarTextStyle": "white",
+  "usingComponents": {
+    "evan-radio": "/components/evan-radio/evan-radio",
+    "s-popup": "/components/s-popup/index"
+  }
+}

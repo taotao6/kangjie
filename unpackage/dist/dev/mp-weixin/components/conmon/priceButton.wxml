@@ -1,0 +1,1 @@
+<view class="price-button"><block wx:for="{{priceAll}}" wx:for-item="item" wx:for-index="index" wx:key="index"><view data-event-opts="{{[['tap',[['itemClick',[index]]]]]}}" class="{{['price-button-item',(current==index)?'active':'']}}" bindtap="__e">{{''+item+'元'}}</view></block></view>

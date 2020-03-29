@@ -1,0 +1,111 @@
+
+.goods {
+	width: 100%;
+	background-color: #fff;
+	/* margin-top: 30upx; */
+	padding-top: 100rpx;
+	/* padding-bottom: 20upx; */
+}
+.goods-in {
+	width: 92%;
+	margin: 0 auto;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	/* border-bottom: 1upx solid #eee; */
+}
+.goods-in-title {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+}
+.title-left {
+	width: 30rpx;
+	height: 30rpx;
+	margin-right: 15rpx;
+	line-height: 30rpx;
+}
+.title-right {
+	font-size: 30rpx;
+}
+.sub-item {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	margin-top: 30rpx;
+	margin-left: 30rpx;
+}
+.sub-item-img {
+	width: 170rpx;
+	height: 150rpx;
+}
+.sub-item-content{
+	margin-left: 20rpx;
+}
+.item-title {
+	overflow: hidden;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+	overflow: hidden;
+	font-size: 30rpx;
+	width: 500rpx;
+	/* height: 28upx; */
+}
+.item-time {
+	font-size: 20rpx;
+	margin-bottom: 10rpx;
+	color: #666;
+}
+.item-deposit {
+	font-size: 20rpx;
+	color: #f37200;
+	margin-bottom: 10rpx;
+}
+.item-price {
+	font-size: 30rpx;
+	color: #f14645;
+	margin-bottom: 10rpx;
+}
+.item-bottom {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+}
+.item-price-icon {
+	width: 40rpx;
+	height: 40rpx;
+	font-size: 28rpx;
+}
+.sub-time{
+	width: 92%;
+	margin: 0rpx auto;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	padding: 20rpx 0;
+}
+.sub-time-left{
+	font-size: 24rpx;
+}
+.sub-time-right{
+	width: 120rpx;
+	height: 46rpx;
+	color: #0DAAFB;
+	border-radius: 23rpx;
+	border: 1rpx solid #0DAAFB;
+	line-height: 46rpx;
+	text-align: center;
+}
+

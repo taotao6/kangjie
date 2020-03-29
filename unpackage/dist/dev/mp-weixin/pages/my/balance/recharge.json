@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "充值",
+  "navigationBarBackgroundColor": "#0daafb",
+  "navigationBarTextStyle": "white",
+  "usingComponents": {
+    "price-button": "/components/conmon/priceButton",
+    "my-button": "/components/conmon/myButton"
+  }
+}

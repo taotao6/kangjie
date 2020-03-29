@@ -1,0 +1,18 @@
+.holdon {
+  width: 100%;
+  height: 100%;
+}
+.ball {
+  width: 100rpx;
+  height: 100rpx;
+  text-align: center;
+  line-height: 80rpx;
+  border-radius: 100%;
+  background-color: #fff;
+  position: fixed;
+  bottom: 120rpx;
+  right: 31rpx;
+  padding: 20rpx;
+  box-shadow: 0 4rpx 24rpx 0 rgba(0, 0, 0, 0.1);
+}
+

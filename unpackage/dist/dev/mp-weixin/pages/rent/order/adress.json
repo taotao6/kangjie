@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "新增地址",
+  "navigationBarBackgroundColor": "#0daafb",
+  "navigationBarTextStyle": "white",
+  "usingComponents": {
+    "simple-address": "/components/simple-address/simple-address",
+    "evan-checkbox": "/components/evan-checkbox/evan-checkbox"
+  }
+}

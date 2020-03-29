@@ -1,0 +1,173 @@
+:root{
+	--main:#0DAAFB;
+	--white:#fff;
+	--black:#000;
+	--bg:#F5F5F5;
+	--light:#666666;
+	--lighter:#969696;
+	/* http://taotao111.test.upcdn.net/1.jpg */
+}
+
+* {
+	margin: 0;
+	padding: 0;
+	/* box-sizing: border-box; */
+}
+
+body,
+html,
+#app {
+	width: 100%;
+	height: 100%;
+	/* overflow: hidden; */
+}
+
+body {
+	font-family: Helvetica Neue, Helvetica, PingFang SC, Hiragino Sans GB, Microsoft YaHei, "\5FAE\8F6F\96C5\9ED1", Arial, sans-serif;
+	color: #515a6e;
+	font-size: 14px;
+}
+
+li {
+	list-style: none;
+}
+
+input[type=number] {
+	-moz-appearance: textfield;
+}
+
+input[type=number]::-webkit-inner-spin-button,
+input[type=number]::-webkit-outer-spin-button {
+	-webkit-appearance: none;
+	margin: 0;
+}
+
+.full-height {
+	height: 100%;
+}
+.full-width{
+	width: 100%;
+}
+.wh100 {
+	width: 100%;
+	height: 100%;
+}
+
+.ac {
+	text-align: center;
+}
+
+.sidebar {
+	color: #fff;
+	padding: 0 !important;
+	background-color: rgb(228, 231, 237);
+}
+
+.sidebar-item {
+	height: 50px;
+	line-height: 50px;
+}
+
+.sidebar-item-href {
+	display: block;
+	width: 100%;
+	height: 100%;
+	padding: 0 25px;
+	color: #fff;
+	text-decoration: none;
+}
+
+.sidebar-item.active {
+	background: #606266;
+}
+
+.user-head {
+	font-size: 30px !important;
+	height: 60px !important;
+	line-height: 60px !important;
+	color: #999 !important;
+}
+
+.el-table::before {
+	height: 0;
+}
+
+.content {
+	width: 100%;
+}
+
+.horizontal-collapse-transition {
+	-webkit-transition: 0s width ease-in-out, 0s padding-left ease-in-out, 0s padding-right ease-in-out;
+	transition: 0s width ease-in-out, 0s padding-left ease-in-out, 0s padding-right ease-in-out
+}
+
+.el-menu-item-group__title {
+	padding: 0;
+}
+
+.el-menu--popup {
+	padding: 0;
+	min-width: 150px;
+}
+
+.overflow-table {
+	overflow-x: auto;
+}
+
+.text-c {
+	text-align: center;
+}
+
+.flex {
+	display: flex;
+	display: -webkit-flex;
+}
+
+.flex-1 {
+	flex: 1;
+}
+
+.flex-row {
+	flex-direction: row;
+}
+
+.flex-column {
+	flex-direction: column;
+}
+
+.flex-jc {
+	justify-content: center;
+}
+
+.flex-ac {
+	align-items: center;
+}
+
+.flex-center {
+	justify-content: center;
+	align-items: center;
+}
+
+.flex-between {
+	justify-content: space-between;
+}
+
+.bg-fff {
+	background-color: #FFFFFF;
+}
+
+.flex-wrap {
+	flex-wrap: wrap;
+}
+
+.padding-small{
+	padding: 20upx 0;
+}
+
+.red{
+	color: red;
+}
+.middle{
+	font-size: 36upx;
+}
+image{height:auto;}

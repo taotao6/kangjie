@@ -1,0 +1,1 @@
+<view class="change-item"><block wx:for="{{change}}" wx:for-item="item" wx:for-index="index" wx:key="index"><view class="change-item-in"><view class="item-left"><view class="item-left-top"><text>{{item.name}}</text></view><view class="item-left-bottom"><text>{{item.time}}</text></view></view><view class="item-right"><text>{{item.price}}</text></view></view></block></view>

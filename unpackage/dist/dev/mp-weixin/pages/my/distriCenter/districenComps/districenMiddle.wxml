@@ -1,0 +1,1 @@
+<view class="distri-middle"><view class="distri-middle-in"><view class="distri-middle-1"><view class="middle-1-title">{{''+myinfo.commission+''}}</view><view class="middle-1-body">我的佣金(元)</view></view><view class="distri-middle-1"><view class="middle-1-title">{{''+myinfo.finishCom+''}}</view><view class="middle-1-body">已提现佣金(元)</view></view></view></view>

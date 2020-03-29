@@ -1,0 +1,224 @@
+
+page {
+	background-color: #fff;
+}
+.red{
+	background-color: red !important;
+}
+.scroll-Y-3{
+	height: 100%;
+}
+.title {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	        justify-content: center;
+	height: 100rpx;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	background-color: #fff !important;
+	margin-top: 30rpx;
+	width: 100%;
+}
+.title-left {
+	width: 275rpx;
+	height: 60rpx;
+	line-height: 60rpx;
+	font-size: 30rpx;
+	text-align: center;
+	background-color: #0daafb;
+	color: #fff;
+	border-radius: 10rpx 0 0 10rpx;
+}
+.title-right {
+	width: 275rpx;
+	height: 60rpx;
+	line-height: 60rpx;
+	font-size: 30rpx;
+	text-align: center;
+	color: #0daafb;
+	background-color: #fff;
+	border: 1px solid #0daafb;
+	border-radius: 0rpx 10rpx 10rpx 0rpx;
+}
+.body {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	        justify-content: center;
+}
+.body-in-img {
+	margin-top: 100rpx;
+	width: 292rpx;
+	height: 277rpx;
+}
+.body-in-title {
+	color: #999;
+	font-size: 28rpx;
+	margin: 20rpx 0;
+	text-align: center;
+}
+.body-in-button button {
+	width: 190rpx;
+	height: 50rpx;
+	line-height: 50rpx;
+	color: #fff;
+	background-color: #0daafb;
+	font-size: 30rpx;
+}
+.contain{
+	width: 100%;
+	border-top: 4rpx solid #eee;
+	padding-top: 30rpx;
+}
+.contain-in{
+	width: 92%;
+	margin: 0 auto;
+}
+.contain-in-detail{
+		padding-bottom: 100rpx;
+}
+.contain-title{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+}
+.title-in-center{
+	color: #333;
+	font-size: 36rpx;
+	width: 60%;
+	text-align: right;
+}
+.title-in-right{
+	color: #666;
+	font-size: 30rpx;
+	width: 40%;
+	text-align: right;
+}
+.sub-item-content {
+	margin-left: 30rpx;
+}
+.sub-item {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	margin-top: 30rpx;
+	margin-left: 30rpx;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+}
+.sub-item-img {
+	width: 170rpx;
+	height: 150rpx;
+}
+.item-title {
+	overflow: hidden;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+	overflow: hidden;
+	font-size: 30rpx;
+	width: 380rpx;
+	/* height: 28upx; */
+}
+.item-time {
+	font-size: 20rpx;
+	margin-bottom: 10rpx;
+}
+.item-deposit {
+	font-size: 20rpx;
+	color: #f37200;
+	margin-bottom: 10rpx;
+}
+.item-price {
+	font-size: 32rpx;
+	color: #f14645;
+	margin-bottom: 10rpx;
+}
+.item-bottom {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+}
+.item-price-icon {
+	width: 40rpx;
+	height: 40rpx;
+}
+.icon-selector{
+	width: 40rpx;
+	height: 40rpx;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	margin-right: 40rpx;
+}
+.all{
+	padding: 30rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+	height: 100rpx;
+	background-color: #fff;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+}
+.all-checkBox{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	font-size: 30rpx;
+	color: #666;
+}
+.allPrice text{
+	color: #EE0000 !important;
+	font-size: 36rpx;
+}
+.full{
+	width: 200rpx;
+	height: 100rpx;
+	line-height: 100rpx;
+	text-align: center;
+	background-color: #0daafb;
+	color: #fff;
+	font-size: 30rpx;
+	z-index: 10;
+}
+.number {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	font-size: 30rpx;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+}
+.number .shu {
+	width: 50rpx;
+	margin-left: 20rpx;
+	background-color: #ebeef5;
+	text-align: center;
+	margin-right: 20rpx;
+	z-index: -10;
+}
+

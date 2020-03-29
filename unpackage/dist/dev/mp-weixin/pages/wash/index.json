@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "洗涤",
+  "navigationBarBackgroundColor": "#0daafb",
+  "navigationBarTextStyle": "white",
+  "usingComponents": {
+    "s-popup": "/components/s-popup/index",
+    "dragball": "/components/drag-ball/drag-ball"
+  }
+}

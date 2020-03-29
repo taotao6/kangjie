@@ -1,0 +1,26 @@
+
+.order-footer.data-v-523c5f64{
+	width: 100%;
+	background-color: white;
+	padding: 20rpx 0;
+}
+.order-footer-in.data-v-523c5f64{
+	width: 92%;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: end;
+	-webkit-justify-content: flex-end;
+	        justify-content: flex-end;
+}
+.button-1.data-v-523c5f64{
+	width: 210rpx;
+	height:60rpx;
+	color:#0DAAFB;
+	border-radius: 28rpx;
+	border: 1rpx solid #0DAAFB;
+	line-height: 60rpx;
+	text-align: center;
+	font-size: 28rpx;
+}
+

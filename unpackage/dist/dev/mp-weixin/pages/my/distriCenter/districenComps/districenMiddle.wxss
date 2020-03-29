@@ -1,0 +1,38 @@
+
+.distri-middle{
+	width: 100%;
+	/* height: 150rpx; */
+	background-color: #fff;
+}
+.distri-middle-in{
+	padding: 30rpx 0;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+}
+.distri-middle-1{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-flex: 1;
+	-webkit-flex: 1;
+	        flex: 1;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	        flex-direction: column;
+	/* justify-content: center; */
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	border-right: 1rpx solid #EEEEEE;
+}
+.middle-1-title{
+	color: #F75625;
+	font-size: 38rpx;
+}
+.middle-1-body{
+	color: #666;
+	font-size: 24rpx;
+}
+

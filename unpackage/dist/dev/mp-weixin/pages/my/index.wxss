@@ -1,0 +1,142 @@
+
+page {
+	background: #f6f6f6;
+}
+.myTitle{
+	height: 370rpx;
+	width: 100%;
+	background: url(http://taotao111.test.upcdn.net/me_nav_bg.png) no-repeat center;
+	background-size: cover;
+}
+.myTitle-in{
+	width: 92%;
+	margin: 0 auto;
+}
+.myTitle-title{
+	font-size: 36rpx;
+	color: #fff;
+	padding-top: 65rpx;
+}
+.myTitle-body{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	margin-top: 51rpx;
+}
+.myTitle-body-left{
+	width: 120rpx;
+	height: 120rpx;
+}
+.myTitle-body-left image{
+	width: 100%;
+	height: 100%;
+	border: 1px solid #fff;
+	border-radius: 50%;
+}
+.myTitle-body-right{
+	margin-left: 20rpx;
+	color: #fff;
+	line-height: 1.5;
+}
+.body-right-name{
+	font-size: 36rpx;
+}
+.body-right-phone{
+	font-size: 26rpx;
+}
+.order{
+	width: 100%;
+	position: relative;
+}
+.order-in{
+	height: 140rpx;
+	width: 92%;
+	margin: 0 auto;
+	background-color: #FFFFFF;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	padding-top: 20rpx;
+	padding-bottom: 20rpx;
+	position: absolute;
+	bottom: -70rpx;
+	left: 4%;
+	border-radius: 10rpx;
+	box-shadow: 0 2px 4px rgba(0, 0, 0, .12), 0 0 6px rgba(0, 0, 0, .04);
+}
+.order-in-left,.order-in-right{
+	width: 50%;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	        flex-direction: column;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	        justify-content: center;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	font-size: 26rpx;
+}
+.order-in-right{
+	border-left: 1px solid #eee;
+}
+.order-left-img,.order-right-img{
+	width: 60rpx;
+	height: 56rpx;
+	margin-bottom: 10rpx;
+}
+.invitation{
+	width: 100%;
+	padding-top: 100rpx;
+	background-color: #fff;
+}
+.invitation-in{
+	width: 92%;
+	margin: 0 auto;
+	height: 141rpx;
+	border-radius: 20rpx;
+	text-align: center;
+}
+.option{
+	background-color: #fff;
+}
+.option-in{
+	width: 92%;
+	padding: 30rpx 0;
+	margin: 0 auto;
+	border-bottom: 1rpx solid #eee;
+}
+.option-in-1{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+}
+.option-1-left{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	font-size: 28rpx;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+}
+.option-left-img{
+	width: 26rpx;
+	height: 26rpx;
+	margin-right: 20rpx;
+}
+.option-right-img{
+	width: 10.5rpx;
+	height: 19rpx;
+}
+

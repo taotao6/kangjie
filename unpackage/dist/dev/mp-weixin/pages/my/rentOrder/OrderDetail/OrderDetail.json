@@ -1,0 +1,16 @@
+{
+  "navigationBarTitleText": "订单详情",
+  "enablePullDownRefresh": true,
+  "navigationBarBackgroundColor": "#0daafb",
+  "navigationBarTextStyle": "white",
+  "usingComponents": {
+    "order-top": "/pages/my/rentOrder/OrderDetail/childCompos/OrderTop",
+    "order-person": "/pages/my/rentOrder/OrderDetail/childCompos/OrderPerson",
+    "order-goods": "/pages/my/rentOrder/OrderDetail/childCompos/OrderGoods",
+    "order-price": "/pages/my/rentOrder/OrderDetail/childCompos/OrderPrice",
+    "order-message": "/pages/my/rentOrder/OrderDetail/childCompos/OrderMessage",
+    "order-info": "/pages/my/rentOrder/OrderDetail/childCompos/OrderInfo",
+    "order-contact": "/pages/my/rentOrder/OrderDetail/childCompos/OrderContact",
+    "order-footer": "/pages/my/rentOrder/OrderDetail/childCompos/OrderFooter"
+  }
+}

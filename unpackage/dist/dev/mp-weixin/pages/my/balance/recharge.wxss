@@ -1,0 +1,29 @@
+
+page{
+	background-color: #FFFFFF;
+	overflow: hidden;
+}
+.recharge{
+	width: 100%;
+}
+.recharge-in{
+	width: 92%;
+	margin: 0 auto;
+}
+.title{
+	margin-top: 30rpx;
+	font-size: 36rpx;
+	font-weight: 600;
+}
+.price-input{
+	margin: 40rpx 0;
+	display: block;
+	width: 100%;
+	padding: 20rpx 30rpx;
+	background-color: #F5F5F5;
+	font-size: 30rpx;
+}
+.myButton{
+	margin-top: 200rpx;
+}
+

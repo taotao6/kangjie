@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "我的收货地址",
+  "navigationBarBackgroundColor": "#0daafb",
+  "navigationBarTextStyle": "white",
+  "usingComponents": {
+    "evan-radio": "/components/evan-radio/evan-radio"
+  }
+}

@@ -1,0 +1,36 @@
+
+.main.data-v-72c1280d{
+	width: 100%;
+	background-color: white;
+	padding-top: 19rpx;
+	padding-bottom: 19rpx;
+	border-bottom: 1rpx solid #eee;
+}
+.tab-control.data-v-72c1280d{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	font-size: 30rpx;
+	background-color: #fff;
+	color: #0DAAFB;
+	border: 1rpx solid #0DAAFB;
+	width: 385rpx;
+	height: 61rpx;
+	text-align: center;
+	margin: 0rpx auto;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+}
+.tab-control-item.data-v-72c1280d{
+	-webkit-box-flex: 1;
+	-webkit-flex: 1;
+	        flex: 1;
+	height: 100%;
+	line-height: 61rpx;
+}
+.active.data-v-72c1280d{
+	color: #fff;
+	background-color: #0DAAFB;
+}
+

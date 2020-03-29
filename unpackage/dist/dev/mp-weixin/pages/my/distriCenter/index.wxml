@@ -1,0 +1,1 @@
+<view><districen-title vue-id="162a16b7-1" myinfo="{{myinfo}}" bind:__l="__l"></districen-title><districen-middle vue-id="162a16b7-2" myinfo="{{myinfo}}" bind:__l="__l"></districen-middle><districen-footer vue-id="162a16b7-3" mytest="{{mytest}}" bind:__l="__l"></districen-footer></view>

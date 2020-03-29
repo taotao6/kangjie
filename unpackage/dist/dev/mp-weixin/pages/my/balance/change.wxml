@@ -1,0 +1,1 @@
+<view class="change"><change-item vue-id="5b37246e-1" change="{{change}}" bind:__l="__l"></change-item></view>
